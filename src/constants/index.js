@@ -219,7 +219,7 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/Rudra-Kumar-Dubey/Portfolio-Website",
+    source_code_link: "https://github.com/Rudra-Kumar-Dubey/Portfolio",
   },
   {
     name: "Guess The Number",
