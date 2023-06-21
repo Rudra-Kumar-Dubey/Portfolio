@@ -114,7 +114,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "July 2017 - May 2018",
     points: [
-      "Scored 89% in 10th Boards Examination.",
+      "Scored 89% in 10th Board Examination.",
       "Participated in DAV Regional Sports Tournament (MHRT) in Table Tennis",
       "Played at District level in Chess and Table Tennis.",
       "Learnt Developing websites and cyber ethics with knowledge of HTML and IT.",
@@ -127,7 +127,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "July 2019 - July 2020",
     points: [
-      "Scored 94.2% in 12th Boards Examination.",
+      "Scored 94.2% in 12th Board Examination.",
       "Participated in DAV National Sports as a Volleyball player and won silver medal at Regional Level.",
       "Appointed as the SPORTS COORDINATOR of my school managed and conducted several sports event.",
       "Learnt about Software development using Python and SQL.",
