@@ -1,5 +1,5 @@
 # Portfolio
 
-![](assets/banner2(1).png)
+![](src/assets/Portfolio.png)
 
 #Link: https://rudrakumardubey-portfolio.netlify.app/
