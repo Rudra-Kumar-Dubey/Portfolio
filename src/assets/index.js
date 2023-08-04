@@ -30,8 +30,10 @@ import portfolio from "./Portfolio.png";
 import board from "./board.jpeg";
 import leaps from "./leaps.jpeg";
 import google from "./google.jpeg";
+import ethnus from "./ethnus.jpg";
 
 export {
+  ethnus,
   logo,
   backend,
   creator,

@@ -23,6 +23,7 @@ import {
   google,
   board,
   leaps,
+  ethnus,
 } from "../assets";
 
 export const navLinks = [
@@ -140,10 +141,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Oct 2020 - Ongoing",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Currently in Final Year with 8.62 CGPA.",
+      "Participated in GeekWeek:Local, Advitya'22 Sports Fest and Arambh'22 Sports Fest.",
+      "Appointed as Sport Coordinator Volleyball and Managed event wiht 500+ members in Advitya'23 and Arambh'22.",
+      "Created Multiple project Hospital Management System, Educational Website and Embedded Systems CDS and CAS System.",
     ],
   },
 ];
@@ -175,6 +176,15 @@ const testimonials = [
     designation: "Issued on Dec 2021",
     company: "Google",
     image: google,
+  },
+  {
+    testimonial:
+      "Learnt Full Stack Development using MERN Framewok, connecting and using api with MongoDB database.",
+    name: "MERN Full Stack",
+    url: "https://drive.google.com/file/d/1zjTNtfA6wzef2Eg8SEq33genJwFpr-Id/view?usp=sharing",
+    designation: "Issued on Jul 2023",
+    company: "Ethnus",
+    image: ethnus,
   },
 ];
 
