@@ -33,7 +33,7 @@ import jobB from "./jobB.png";
 import board from "./board.jpeg";
 import leaps from "./leaps.jpeg";
 import google from "./google.jpeg";
-import ethnus from "./ethnus.png";
+import ethnus from "./Ethnus.png";
 
 export {
   ethnus,
