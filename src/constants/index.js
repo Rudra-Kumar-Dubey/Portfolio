@@ -19,6 +19,9 @@ import {
   portfolio,
   eduweb,
   foodord,
+  jobB,
+  dice,
+  farmAZY,
   threejs,
   google,
   board,
@@ -291,8 +294,42 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: foodord,
+    image: dice,
     source_code_link: "https://github.com/Rudra-Kumar-Dubey/Game-of-Dice",
+  },
+  {
+    name: "FarmAZY",
+    description:
+      "Created FARMAZY, a MERN stack web application powered by Firebase, enabling farmers to easily list crops with pricing and contact details, fostering direct communication with buyers for efficient agricultural transactions.",
+    tags: [
+      {
+        name: "MERN Stack",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "green-text-gradient",
+      },
+    ],
+    image: farmAZY,
+    source_code_link: "https://github.com/Rudra-Kumar-Dubey/",
+  },
+  {
+    name: "Job Board",
+    description:
+      "Developed a comprehensive job board platform with separate login and dashboard interfaces for both Admin and Applicants. Incorporated CRUD operations for Admin and implemented dark/light mode functionality for user experience.",
+    tags: [
+      {
+        name: "MERN Stack",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Material UI",
+        color: "green-text-gradient",
+      },
+    ],
+    image: jobB,
+    source_code_link: "https://github.com/Rudra-Kumar-Dubey/Job_Board",
   },
 ];
 

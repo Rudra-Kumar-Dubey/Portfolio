@@ -26,6 +26,9 @@ import guesstnum from "./Guessthenumber.png";
 import eduweb from "./Eduweb.png";
 import foodord from "./foodord.png";
 import portfolio from "./Portfolio.png";
+import dice from "./dice.png";
+import farmAZY from "./farmAZY.png";
+import jobB from "./jobB.png";
 
 import board from "./board.jpeg";
 import leaps from "./leaps.jpeg";
@@ -59,6 +62,9 @@ export {
   portfolio,
   eduweb,
   foodord,
+  dice,
+  farmAZY,
+  jobB,
   google,
   board,
   leaps,
