@@ -141,7 +141,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Oct 2020 - Ongoing",
     points: [
-      "Currently in Final Year with 8.62 CGPA.",
+      "Currently in Final Year with 8.72 CGPA.",
       "Participated in GeekWeek:Local, Advitya'22 Sports Fest and Arambh'22 Sports Fest.",
       "Appointed as Sport Coordinator Volleyball and Managed event wiht 500+ members in Advitya'23 and Arambh'22.",
       "Created Multiple project Hospital Management System, Educational Website and Embedded Systems CDS and CAS System.",
@@ -272,6 +272,27 @@ const projects = [
     ],
     image: foodord,
     source_code_link: "https://github.com/Rudra-Kumar-Dubey/Food-Ordering-Website",
+  },
+  {
+    name: "Game of Dice",
+    description:
+      "I designed and developed an interactive and visually captivating web-based Game of Dice, featuring a seamless two-player competition with a focus on UI/UX excellence for an engaging and immersive user experience.",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: foodord,
+    source_code_link: "https://github.com/Rudra-Kumar-Dubey/Game-of-Dice",
   },
 ];
 
